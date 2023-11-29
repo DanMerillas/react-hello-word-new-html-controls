@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Proyecto para la charla del área de sharepoint. El objetivo es aprender React básico para luego urilizarlo con SPFx
+Proyecto para la charla del área de sharepoint. El objetivo es aprender React básico para luego utilizarlo con SPFx
 
 
 ## Dependecias a utilizar
