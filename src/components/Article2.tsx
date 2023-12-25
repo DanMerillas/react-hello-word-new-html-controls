@@ -1,7 +1,7 @@
 function Article2() {
   return (
     <article>
-    <h2>Articulo2</h2>
+   <h2>Articulo 2 - Nuevos elementos HTML5</h2>
     <div>
       <label htmlFor="listado">Listado seleccionable: </label>
       <input id='listado' type="text" list="lista" />
